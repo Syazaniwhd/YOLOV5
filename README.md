@@ -16,6 +16,6 @@ Steps to follow:
 3) Activate virtual environment --> conda activate yolov5
 4) navigate to the path directory of the cloned "YOLOV5" in your terminal or anaconda prompt
 5) Install the required dependancies --> pip intall -r requirements.txt
-6) Open Object_Detection_Real_Time.py on any IDE such as VS Code and run the script.
-7) In Object_Detection_Real_Time.py , you can change the link in line 106 to any youtube video you like to experiment
+6) Open Object_Detection_Youtube.py on any IDE such as VS Code and run the script.
+7) In Object_Detection_Youtube.py , you can change the link in line 106 to any youtube video you like to experiment
 8) The output of the ;labelled video will be stored in the same folder and named "Labelled.video.avi"
